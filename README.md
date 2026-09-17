@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0576-out-of-boundary-paths) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1220-count-vowels-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/1220-count-vowels-permutation) |
@@ -71,8 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
