@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
