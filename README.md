@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1220-count-vowels-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/1220-count-vowels-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Math
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
+## Sorting
+|  |
+| ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 <!---LeetCode Topics End-->
