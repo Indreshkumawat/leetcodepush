@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
+| [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/Indreshkumawat/leetcodepush/tree/master/1105-filling-bookcase-shelves) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
+| [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/Indreshkumawat/leetcodepush/tree/master/1105-filling-bookcase-shelves) |
 | [1220-count-vowels-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/1220-count-vowels-permutation) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
+| [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 ## Sorting
 |  |
 | ------- |
