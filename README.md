@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1049-last-stone-weight-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1049-last-stone-weight-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 ## Simulation
 |  |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
