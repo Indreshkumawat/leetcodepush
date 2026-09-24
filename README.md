@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0062-unique-paths) |
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Combinatorics
 |  |
 | ------- |
