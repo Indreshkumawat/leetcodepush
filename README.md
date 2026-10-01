@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-filling-bookcase-shelves](https://github.com/Indreshkumawat/leetcodepush/tree/master/1105-filling-bookcase-shelves) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-count-vowels-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/1220-count-vowels-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Indreshkumawat/leetcodepush/tree/master/0368-largest-divisible-subset) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
