@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Indreshkumawat/leetcodepush/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
