@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Indreshkumawat/leetcodepush/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0354-russian-doll-envelopes) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
