@@ -25,8 +25,7 @@ class Solution {
         // return maxi;
 
 
-        
-
+        // by more optimize way --> O(nlog n)
         int[] lis = new int[n];
         int size = 0;
 
