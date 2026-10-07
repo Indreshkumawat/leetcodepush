@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Indreshkumawat/leetcodepush/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0354-russian-doll-envelopes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0354-russian-doll-envelopes) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
@@ -223,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
