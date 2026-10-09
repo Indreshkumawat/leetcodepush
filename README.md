@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Indreshkumawat/leetcodepush/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Indreshkumawat/leetcodepush/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Indreshkumawat/leetcodepush/tree/master/0583-delete-operation-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
