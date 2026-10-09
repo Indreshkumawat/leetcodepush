@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [1021-remove-outermost-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
 | [0376-wiggle-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0376-wiggle-subsequence) |
 | [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -244,8 +246,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
