@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
