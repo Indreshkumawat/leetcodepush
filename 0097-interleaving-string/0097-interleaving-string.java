@@ -47,15 +47,13 @@ class Solution {
                 }
 
                 if (i > 0 &&
-                    s1.charAt(i - 1) == s3.charAt(k - 1) &&
-                    dp[i - 1][j][k - 1]) {
-                    dp[i][j][k] = true;
+                    s1.charAt(i - 1) == s3.charAt(k - 1)) {
+                    dp[i][j][k] = dp[i-1][j][k-1];
                 }
 
                 if (j > 0 &&
-                    s2.charAt(j - 1) == s3.charAt(k - 1) &&
-                    dp[i][j - 1][k - 1]) {
-                    dp[i][j][k] = true;
+                    s2.charAt(j - 1) == s3.charAt(k - 1)) {
+                    dp[i][j][k] = dp[i][j][k] || dp[i][j - 1][k - 1];
                 }
             }
         }
