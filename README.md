@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Indreshkumawat/leetcodepush/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Indreshkumawat/leetcodepush/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Indreshkumawat/leetcodepush/tree/master/0062-unique-paths) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Indreshkumawat/leetcodepush/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Indreshkumawat/leetcodepush/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Indreshkumawat/leetcodepush/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Indreshkumawat/leetcodepush/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0097-interleaving-string) |
