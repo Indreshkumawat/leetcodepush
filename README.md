@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Indreshkumawat/leetcodepush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 ## Union-Find
 |  |
 | ------- |
