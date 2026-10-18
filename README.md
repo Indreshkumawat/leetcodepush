@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Indreshkumawat/leetcodepush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
