@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Indreshkumawat/leetcodepush/tree/master/0368-largest-divisible-subset) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Indreshkumawat/leetcodepush/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0354-russian-doll-envelopes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
