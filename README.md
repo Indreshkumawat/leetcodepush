@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Indreshkumawat/leetcodepush/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -338,9 +339,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
