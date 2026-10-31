@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 ## Union-Find
 |  |
