@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Indreshkumawat/leetcodepush/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Indreshkumawat/leetcodepush/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Indreshkumawat/leetcodepush/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1092-shortest-common-supersequence) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
