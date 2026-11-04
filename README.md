@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/Indreshkumawat/leetcodepush/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Indreshkumawat/leetcodepush/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Indreshkumawat/leetcodepush/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/Indreshkumawat/leetcodepush/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0474-ones-and-zeroes) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Indreshkumawat/leetcodepush/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
@@ -391,5 +394,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Indreshkumawat/leetcodepush/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
