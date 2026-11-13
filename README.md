@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Indreshkumawat/leetcodepush/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
