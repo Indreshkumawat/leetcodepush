@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Indreshkumawat/leetcodepush/tree/master/1024-video-stitching) |
 | [1049-last-stone-weight-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1049-last-stone-weight-ii) |
 | [1105-filling-bookcase-shelves](https://github.com/Indreshkumawat/leetcodepush/tree/master/1105-filling-bookcase-shelves) |
+| [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Indreshkumawat/leetcodepush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Indreshkumawat/leetcodepush/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1092-shortest-common-supersequence) |
 | [1105-filling-bookcase-shelves](https://github.com/Indreshkumawat/leetcodepush/tree/master/1105-filling-bookcase-shelves) |
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Indreshkumawat/leetcodepush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1220-count-vowels-permutation](https://github.com/Indreshkumawat/leetcodepush/tree/master/1220-count-vowels-permutation) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Indreshkumawat/leetcodepush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0064-minimum-path-sum) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
+| [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
