@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Indreshkumawat/leetcodepush/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Indreshkumawat/leetcodepush/tree/master/0139-word-break) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Indreshkumawat/leetcodepush/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Indreshkumawat/leetcodepush/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph Theory
 |  |
