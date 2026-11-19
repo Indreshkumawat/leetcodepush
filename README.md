@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Indreshkumawat/leetcodepush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Indreshkumawat/leetcodepush/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
+| [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
 | [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Indreshkumawat/leetcodepush/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/2059-minimum-operations-to-convert-number) |
