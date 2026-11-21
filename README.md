@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/2059-minimum-operations-to-convert-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Indreshkumawat/leetcodepush/tree/master/2187-minimum-time-to-complete-trips) |
+| [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
 | [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
+| [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
