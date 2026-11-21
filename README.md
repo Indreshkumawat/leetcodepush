@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/1748-sum-of-unique-elements) |
 | [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Indreshkumawat/leetcodepush/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/Indreshkumawat/leetcodepush/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3863-minimum-operations-to-sort-a-string) |
