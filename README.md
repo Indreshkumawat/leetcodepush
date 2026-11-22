@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Indreshkumawat/leetcodepush/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Indreshkumawat/leetcodepush/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Indreshkumawat/leetcodepush/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
