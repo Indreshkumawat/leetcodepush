@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Indreshkumawat/leetcodepush/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/Indreshkumawat/leetcodepush/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Indreshkumawat/leetcodepush/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Indreshkumawat/leetcodepush/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Indreshkumawat/leetcodepush/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Indreshkumawat/leetcodepush/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Indreshkumawat/leetcodepush/tree/master/2685-count-the-number-of-complete-components) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/2059-minimum-operations-to-convert-number) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
