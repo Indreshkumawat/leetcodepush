@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Indreshkumawat/leetcodepush/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Indreshkumawat/leetcodepush/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Indreshkumawat/leetcodepush/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Indreshkumawat/leetcodepush/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -465,7 +467,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
