@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Indreshkumawat/leetcodepush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Indreshkumawat/leetcodepush/tree/master/0650-2-keys-keyboard) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Indreshkumawat/leetcodepush/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Indreshkumawat/leetcodepush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Indreshkumawat/leetcodepush/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Indreshkumawat/leetcodepush/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Indreshkumawat/leetcodepush/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Indreshkumawat/leetcodepush/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Indreshkumawat/leetcodepush/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Indreshkumawat/leetcodepush/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Indreshkumawat/leetcodepush/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
