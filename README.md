@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Indreshkumawat/leetcodepush/tree/master/2187-minimum-time-to-complete-trips) |
 | [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2460-apply-operations-to-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Indreshkumawat/leetcodepush/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2295-replace-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
