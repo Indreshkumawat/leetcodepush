@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/Indreshkumawat/leetcodepush/tree/master/2059-minimum-operations-to-convert-number) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Indreshkumawat/leetcodepush/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Indreshkumawat/leetcodepush/tree/master/2685-count-the-number-of-complete-components) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Indreshkumawat/leetcodepush/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Indreshkumawat/leetcodepush/tree/master/2685-count-the-number-of-complete-components) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Indreshkumawat/leetcodepush/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
