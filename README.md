@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Indreshkumawat/leetcodepush/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Indreshkumawat/leetcodepush/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Indreshkumawat/leetcodepush/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Indreshkumawat/leetcodepush/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indreshkumawat/leetcodepush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Indreshkumawat/leetcodepush/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Indreshkumawat/leetcodepush/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Indreshkumawat/leetcodepush/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Indreshkumawat/leetcodepush/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
