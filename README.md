@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 | [1306-jump-game-iii](https://github.com/Indreshkumawat/leetcodepush/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indreshkumawat/leetcodepush/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Indreshkumawat/leetcodepush/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Indreshkumawat/leetcodepush/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Indreshkumawat/leetcodepush/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/Indreshkumawat/leetcodepush/tree/master/0909-snakes-and-ladders) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Indreshkumawat/leetcodepush/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Indreshkumawat/leetcodepush/tree/master/1162-as-far-from-land-as-possible) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Indreshkumawat/leetcodepush/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Indreshkumawat/leetcodepush/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Indreshkumawat/leetcodepush/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Indreshkumawat/leetcodepush/tree/master/1971-find-if-path-exists-in-graph) |
@@ -507,8 +511,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Indreshkumawat/leetcodepush/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Indreshkumawat/leetcodepush/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
